@@ -1,5 +1,5 @@
 ### Hi there 👋
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earestd&langs_count=10&layout=compact&theme=dark)](https://github.com/earestd/earestd)
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeewon-bang&langs_count=10&layout=compact&theme=dark)](https://github.com/jeewon-bang/jeewon-bang)
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
