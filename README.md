@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![jeewon-bang's github stats](https://github-readme-stats.vercel.app/api?username=jeewon-bang&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeewon-bang&layout=compact&theme=dracula)](https://github.com/jeewon-bang)
+![jeewon-bang's github stats](https://github-readme-stats.vercel.app/api?username=bang-jeewon&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bang-jeewon&layout=compact&theme=dracula)](https://github.com/bang-jeewon)
 ---
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
